@@ -11,6 +11,6 @@
   * [Spanish](español/02.md)
 
 * ### 03 - What is meant by “Software Testing”? - 28/08/23
-  * English - pending
+  * [English](english/03.md)
   * [Spanish](español/03.md)
 
