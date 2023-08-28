@@ -9,3 +9,8 @@
 * ### 02 - Importance of testing - 17/08/23
   * [English](english/02.md)
   * [Spanish](español/02.md)
+
+* ### 03 - What is meant by “Software Testing”? - 28/08/23
+  * English - pending
+  * [Spanish](español/03.md)
+
