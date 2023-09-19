@@ -14,3 +14,6 @@
   * [English](english/03.md)
   * [Spanish](español/03.md)
 
+* ### 04 - Useful mindset for testing - 19/09/23
+  * [English](english/04.md)
+  * [Spanish](español/04.md)
